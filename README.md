@@ -100,8 +100,8 @@ currently  : Open to collaboration & opportunities
 ![Delkira's Profile views](https://komarev.com/ghpvc/?username=delkiraaa&style=flat&color=blueviolet)<br>
 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/NCTea/NCTea/output/snake.svg" alt="Snake animation" />
-<a href="https://trakteer.id/nekocafe" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png?date=18-11-2023" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
+<img src="https://raw.githubusercontent.com/delkiraaa/delkiraaa/output/snake.svg" alt="Snake animation" />
+<a href="https://trakteer.id/feliceite" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png?date=18-11-2023" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
 
 ---
 
