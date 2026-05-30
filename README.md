@@ -70,17 +70,9 @@ currently  : Open to collaboration & opportunities
 
 ---
 
-## 🤝 Contributing
+## 🤝 Github Stats
 
-I welcome contributions, ideas, and collaboration!
-
-1. **Fork** the repository
-2. **Create** your feature branch (`git checkout -b feature/your-feature`)
-3. **Commit** your changes (`git commit -m 'feat: add your feature'`)
-4. **Push** to the branch (`git push origin feature/your-feature`)
-5. **Open** a Pull Request
-
-Please make sure your code follows the existing style and includes relevant documentation.
+![Neko's Profile views](https://komarev.com/ghpvc/?username=delkiraaa&style=flat&color=blueviolet)<br>
 
 ---
 
@@ -100,6 +92,6 @@ Please make sure your code follows the existing style and includes relevant docu
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
 
-*"First, solve the problem. Then, write the code." — John Johnson*
+*"First, solve the problem. Then, write the code." — Felice*
 
 </div>
