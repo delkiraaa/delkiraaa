@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Delkira&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Software%20Engineer&descAlignY=58&descSize=18&descColor=a8d8ea" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Delkiraaa&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Software%20Engineer&descAlignY=58&descSize=18&descColor=a8d8ea" width="100%"/>
 
 </div>
 
@@ -57,14 +57,14 @@ currently  : Open to collaboration & opportunities
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Delkira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delkira&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Delkiraaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delkiraaa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Delkira&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Delkiraaa&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -90,7 +90,7 @@ Please make sure your code follows the existing style and includes relevant docu
 
 [![Email](https://img.shields.io/badge/Email-feliceite@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:feliceite@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
-[![GitHub](https://img.shields.io/badge/GitHub-Delkira-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Delkira)
+[![GitHub](https://img.shields.io/badge/GitHub-Delkiraaa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Delkiraaa)
 
 </div>
 
