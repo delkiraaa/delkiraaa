@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Delkiraaa&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Software%20Engineer&descAlignY=58&descSize=18&descColor=a8d8ea" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Delkira&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Software%20Engineer&descAlignY=58&descSize=18&descColor=a8d8ea" width="100%"/>
 
 </div>
 
@@ -57,8 +57,8 @@ currently  : Open to collaboration & opportunities
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Delkiraaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delkiraaa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Delkira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delkira&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
