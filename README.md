@@ -72,7 +72,13 @@ currently  : Open to collaboration & opportunities
 
 ## 🤝 Github Stats
 
-![Neko's Profile views](https://komarev.com/ghpvc/?username=delkiraaa&style=flat&color=blueviolet)<br>
+![Delkira's Profile views](https://komarev.com/ghpvc/?username=delkiraaa&style=flat&color=blueviolet)<br>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/NCTea/NCTea/output/snake.svg" alt="Snake animation" />
+
+![Delkira's Profile views](https://komarev.com/ghpvc/?username=NCTea&style=flat&color=blueviolet)<br>
 
 ---
 
